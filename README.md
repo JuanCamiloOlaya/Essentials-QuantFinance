@@ -1,0 +1,2 @@
+# Elemental Quantitative Finance
+This repository is designed to provide a foundational understanding of quantitative finance concepts and techniques using Python. It offers a collection of Jupyter Notebooks that cover essential topics such as data acquisition, cleaning, exploratory data analysis, financial metrics, technical analysis, and financial ratios. By exploring the content and examples provided, you can build a strong base for further delving into more advanced quantitative finance applications.
